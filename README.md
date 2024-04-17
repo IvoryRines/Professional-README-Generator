@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
-  This application generates a professional README file based on user responses to the application prompts.
+  This is a command-line application that generates a professional README file based on user responses to the application prompts.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -13,7 +13,7 @@
   - [Questions](#questions)
 
   ## Installation
-  To install this application, clone this respository to your local machine. Open the respository in a CLI. Initialize npm and install the included dependencies. You are now ready to enter Node index.js into your terminal to launch the application. 
+  To install this application, clone this respository to your local machine. Open the respository in a CLI. Initialize npm and install the included dependencies.
 
   ## Usage
   Open the respository in your CLI. Open a terminal and type Node index.js to launch the application. Follow the prompts and your custom README will print upon completion.

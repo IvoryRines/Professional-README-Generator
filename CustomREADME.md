@@ -1,5 +1,5 @@
 # Title
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Description 
   This is the description.
@@ -13,19 +13,19 @@
   - [Questions](#questions)
 
   ## Installation
-  These are the iinstallation instructions.
+  These are the installation instructions.
 
   ## Usage
   These are the usage instructions.
 
   ## License
-  Licensed under the  [GPL 3.0](https://www.gnu.org/licenses/gpl-3.0) license.
+  Licensed under the  [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Contributing
   These are the contribution guidelines.
 
   ## Tests
-  This is the test documentation.
+  This is the test documention.
 
   ## Questions
   Please reach out to me with any questions about this project on GitHub at: https://github.com/myUserName or via email: myEmail@gmail.com
