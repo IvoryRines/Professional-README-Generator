@@ -21,7 +21,7 @@
 
   ## Usage
   - In your terminal, type `node index.js` to launch the application. 
-  - Follow the prompts within the command-line and your custom README will be created within the repository upon completion. 
+  - Follow the prompts within the command-line. Upon completion, your custom README will be created within the repository. 
   - Please see my [tutorial video](https://drive.google.com/file/d/1a2DE2J5oyhY5WMKJnSRJ8LZFPBVehS4o/view?usp=sharing) for a visual demonstration of the application's functionality.
 
   ## License
@@ -34,4 +34,6 @@
   None
 
   ## Questions
-  Please reach out to me with any questions about this project on GitHub at: https://github.com/IvoryRines or via email: subplot_05tracer@icloud.com.
+  Please reach out to me with any questions about this project via:
+  - [GitHub](https://github.com/IvoryRines) 
+  - [Email](subplot_05tracer@icloud.com)
