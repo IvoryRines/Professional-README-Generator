@@ -22,11 +22,14 @@
   Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Contributing
-  These are the contribution guidelines.
+  These are the contribution instructions.
 
   ## Tests
   This is the test documentation.
 
   ## Questions
-  Please reach out to me with any questions about this project on GitHub at: https://github.com/IvoryRines or via email: email@gmail.com
+  Please reach out to me with any questions about this project via:
+  - [GitHub](https://github.com/username)
+  
+  - [Email](email@email.com)
   

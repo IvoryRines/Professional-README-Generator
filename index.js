@@ -26,7 +26,7 @@ const questions = [
 
     {
         type: 'input',
-        message: 'Please provide instructions for use:',
+        message: 'Please provide usage instructions:',
         name: 'usage',
     },
     
@@ -70,7 +70,7 @@ function writeToFile(fileName, data) {
 // A function to initialize app
 function init() {
     inquirer.prompt(questions).then((userAnswers) => {
-        writeToFile('README.md', generateMarkdown({ ...userAnswers}));
+        writeToFile('READMEdemo.md', generateMarkdown({ ...userAnswers}));
     })
 }
 
